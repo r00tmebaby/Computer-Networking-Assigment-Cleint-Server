@@ -6,11 +6,8 @@
 
 UDP Client and Server Documentation
 
-
-UDP Client Procedures Description 
-
- 
 1st Run Client with two different words
+<img src='https://i.gyazo.com/a1241be37d7ee467fe3becdf9699394d.png'>
 
 1. UDP client request a word to be typed by the user without any specific length or characters encoding requirements 
 2. The client separates the word into two strings depending on the word length as described in the specifications. If the word length is an odd number, it will divide it in half + 1 letter and if the length is even number will separate it in half.
@@ -24,9 +21,9 @@ UDP Client Procedures Description
  
 UDP Server Procedures Description 
 
- 
 1st Run Server with two different words
-https://i.gyazo.com/a1241be37d7ee467fe3becdf9699394d.png
+<img src='https://i.gyazo.com/d7a1da5b0544add94595be232d53deca.png'>
+
 1. The server binds to UDP socket if the port is free and wait for packets 
 2. If a packet is received the server creates a temporary variable which is storing each one of them separated with a specific separator in such manner: packet1+separator+packet2+separator+packet3 etc
 3. As requested in the requirements, we wait for only two packets to proceed with the next steps, which are: 
