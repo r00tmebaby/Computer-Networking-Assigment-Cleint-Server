@@ -4,9 +4,10 @@
  It was marked 100% and I think that it may be helpfull to other students too. 
 
 
-<b>UDP Client and Server Documentation
- <hr>
-1st Run Client with two different words
+
+<b>UDP Client and Server Documentation</b>
+
+<b>Client</b>
 <img src='https://i.gyazo.com/a1241be37d7ee467fe3becdf9699394d.png'>
 
 1. UDP client request a word to be typed by the user without any specific length or characters encoding requirements 
@@ -19,8 +20,7 @@
 8. Wait for the next word input
 
  
-#UDP Server Procedures Description 
-1st Run Server with two different words
+<b>Server</b>
 <img src='https://i.gyazo.com/d7a1da5b0544add94595be232d53deca.png'>
 
 1. The server binds to UDP socket if the port is free and wait for packets 
