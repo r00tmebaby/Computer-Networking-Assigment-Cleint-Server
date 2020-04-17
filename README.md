@@ -31,7 +31,3 @@ UDP Server Procedures Description
         3.2 Ste 2 The server compares by lexicographic order the enumeration that each packet hold and swap their places. It will place the more significant received number at the front and generate a new string. 
 4. The server encrypts the produced string, convert it to a binary string and sends it back to the client
 5. The server print a message that the task is completed and remain in waiting condition to receive new packets 
-
- 
- 
-2nd Run on Server and Client -  joined image
