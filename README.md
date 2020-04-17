@@ -4,7 +4,8 @@
  It was marked 100% and I think that it may be helpfull to other students too. 
 
 
-#UDP Client and Server Documentation
+<b>UDP Client and Server Documentation
+ <hr>
 1st Run Client with two different words
 <img src='https://i.gyazo.com/a1241be37d7ee467fe3becdf9699394d.png'>
 
