@@ -4,8 +4,7 @@
  It was marked 100% and I think that it may be helpfull to other students too. 
 
 
-UDP Client and Server Documentation
-
+#UDP Client and Server Documentation
 1st Run Client with two different words
 <img src='https://i.gyazo.com/a1241be37d7ee467fe3becdf9699394d.png'>
 
@@ -19,8 +18,7 @@ UDP Client and Server Documentation
 8. Wait for the next word input
 
  
-UDP Server Procedures Description 
-
+#UDP Server Procedures Description 
 1st Run Server with two different words
 <img src='https://i.gyazo.com/d7a1da5b0544add94595be232d53deca.png'>
 
